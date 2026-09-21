@@ -1,5 +1,7 @@
 # Belajar Git
 
-Project untuk mempelajari dasar penggunaan Git.
+Nama: Angga Hermawan
+NIM: 3042025071
+Kelas: 3C
 
-Percobaan update README untuk CP5.
+Project untuk mempelajari dasar penggunaan Git.
